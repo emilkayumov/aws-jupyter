@@ -25,6 +25,10 @@ sudo ../../miniconda/bin/python setup.py install
 cd ../..
 
 
+# install vw
+sudo apt-get -qq install vowpal-wabbit
+
+
 # create ipython profile
 ipython profile create nbserver
 
