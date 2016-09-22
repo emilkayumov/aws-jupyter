@@ -1,8 +1,0 @@
-# key for remote machine on local machine
-pemfile='aws_key.pem'
-
-# public dns of remote machine
-remote_host='ec2-52-53-196-243.us-west-1.compute.amazonaws.com'
-
-# sha1 for chosen ipython password
-jupyter_password='sha1:8d348a68fa38:1d9db125c243cf050aa2337f8e2f6fa4d2f69d55'
