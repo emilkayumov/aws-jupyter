@@ -1,6 +1,8 @@
 sudo locale-gen ru_RU.UTF-8
 
 # install some libraries for standard python
+
+sudo apt-get update
 sudo apt-get -y install python-pip
 pip install numpy scipy pandas scikit-learn jupyter matplotlib
 
